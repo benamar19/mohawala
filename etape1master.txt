@@ -1,3 +1,7 @@
 ajout 1 master
+<<<<<<< HEAD
 ajout 2 branche
 ajout 3 master
+=======
+ajout 4 brache
+>>>>>>> branche
